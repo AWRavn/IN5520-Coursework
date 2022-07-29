@@ -1,1 +1,2 @@
-# IN5520-Feature-evaluation-and-classification
+# IN5520-Coursework
+This repository contains the coursework for IN5520 – Digital Image Analysis.
